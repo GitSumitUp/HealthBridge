@@ -52,7 +52,7 @@ HealthBridge is a web application designed to streamline the process of booking 
 
 ## Screenshots
 
-![HealthBridge Screenshot](https://github.com/GitSumitUp/HealthBridge/screenshots/screenshot.png)
+![HealthBridge Screenshot](https://github.com/GitSumitUp/HealthBridge/blob/main/public/img/HealthBridge.png)
 
 ## Project Goals
 
