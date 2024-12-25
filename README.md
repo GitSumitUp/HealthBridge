@@ -14,7 +14,7 @@ HealthBridge is a web application designed to streamline the process of booking 
 
 - **Frontend**: React.js, HTML, CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MySQL
 
 ## Installation
 
